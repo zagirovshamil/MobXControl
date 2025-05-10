@@ -1,0 +1,4 @@
+:root {
+  --primary: #4a90e2;
+  --shadow: 0 0 10px var(--primary);
+}

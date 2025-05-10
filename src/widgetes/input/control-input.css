@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+  color: var(--primary);
+}
+
+.containerWrapper {
+  display: flex;
+  margin-right: 5px;
+}
+
+.containerInput {
+  padding: 5px;
+  flex-grow: 1;
+  background-color: var(--primary);
+  outline: none;
+  border: none;
+  border-radius: 7px;
+  width: 100px;
+  height: 35px;
+  color: white;
+  transition: box-shadow 0.15s ease;
+}
+
+.containerInput:focus {
+  outline: none;
+  border: 2px solid var(--primary);
+}
+
+.containerInput:hover {
+  border: 1px solid var(--primary);
+  box-shadow: var(--shadow);
+}
+
+.InputButton {
+  margin: 0 2px;
+  padding: 5px 10px;
+  height: 50px;
+  width: 100px;
+  border: 1px solid var(--primary);
+  background-color: var(--primary);
+  color: white;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: transform 0.15s ease;
+}
+
+.InputButton:active {
+  transform: scale(1.03);
+}
