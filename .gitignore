@@ -3,7 +3,6 @@
 # dependencies
 /node_modules
 /.pnp
-/public
 .pnp.js
 
 # testing
@@ -22,6 +21,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-tsconfig.json*
-yarn.lock*
 
