@@ -1,3 +1,6 @@
+![Project screenshot](https://github.com/zagirovshamil/MobXControl/blob/main/public/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20143536.png?raw=true)
+
+
 Для того, чтобы запустить проект, необходимо сначала клонировать его к себе в IDE. После же инициализировать инициализировать его. 
 ```
 npm i 
@@ -8,6 +11,15 @@ yarn install
 npm start
 yarn start
 ```
+
+## Скриншот первого контрола 
+![Project screenshot](https://github.com/zagirovshamil/MobXControl/blob/main/public/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20143541.png?raw=true)
+
+## Скриншот второго контрола 
+![Project screenshot](https://github.com/zagirovshamil/MobXControl/blob/main/public/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20144850.png?raw=true)
+
+## Скриншот контрола-автокомплита
+![Project screenshot](https://github.com/zagirovshamil/MobXControl/blob/main/public/assets/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20143554.png?raw=true)
 
 Добрый день, приветствую Вас в своем репо. Здесь вы можете увидеть мой код для тестового задания, которое заключалось в том, чтобы реализовать два контролируемых инпута. Один из которых имел при себе две кнопки, которые могли добавлять в инпут слово и очищать полностью этот же инпут. Второй же  контролируемый инпут, также имеет две кнопки, которые выводят сообщение(alert) с текстом, который проверяет что написано в контроле, число или текст. 
 И второе задание, это по сути по своей поиск, который включает в себя выпадающее окно с подсказками, которые имеют `наименование`, `полное наименование` и `флаг`. При выборе же подсказки, значение подставляется в контрол. 
